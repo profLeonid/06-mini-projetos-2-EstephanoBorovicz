@@ -1,4 +1,3 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/imudYGEZ)
 # Exercícios de JavaScript — Módulo 2
 ## Estruturas de Repetição
 
@@ -29,7 +28,6 @@ Projeto com exercícios práticos para aprender estruturas de repetição em Jav
 
 ## 📌 Regras Gerais
 
-- **Não edite** nenhum arquivo `index.html` nem `style.css`
 - Cada exercício precisa de um arquivo `script.js` criado por você
 - O `script.js` deve ser criado dentro da pasta do exercício
 - Após criar o arquivo, **referencie-o no HTML** com a tag `<script>`
