@@ -4,6 +4,8 @@ Autor: Estephano Borovicz.
 Data: 30/03/2025.
 */
 
+'use strict'
+
 function contar(input) {
 
     let contador = []
@@ -91,8 +93,6 @@ function gerarTabela() {
         tableRow.appendChild(td5)
         tabela.appendChild(tableRow)
     }
-
-
 }
 
 
